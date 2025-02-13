@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# folders
+Agricultural-crops/
+working/
+__*
